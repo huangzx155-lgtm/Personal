@@ -1,20 +1,27 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Zixen Creative Studio
 
-# Run and deploy your AI Studio app
+Personal portfolio and creative coding experiments by Zixen.
 
-This contains everything you need to run your app locally.
+## About
 
-View your app in AI Studio: https://ai.studio/apps/3b3aeffd-1154-4f58-987c-492da7acf603
+This website showcases:
 
-## Run Locally
+- Architectural Design
+- Computational Design
+- Creative Coding
+- Interactive Web Experiences
+- Visual Research
 
-**Prerequisites:**  Node.js
+## Tech Stack
 
+- React
+- TypeScript
+- Vite
+- Three.js
+- GSAP
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Local Development
+
+```bash
+npm install
+npm run dev
