@@ -1,0 +1,6 @@
+{
+  "name": "Zixen Creative Studio",
+  "description": "An immersive, high-end 3D and interactive creative studio website inspired by zixen.studio, featuring particle systems, shader distortions, and smooth transitions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
